@@ -39,7 +39,7 @@ Below are sample outputs captured from the console while running the simulator:
 
 Displays the current user's (`u7`) friend list and the pages they like.
 
-![View Friend List and Liked Pages](images/ss1.png)
+![View Friend List and Liked Pages](S1.png)
 
 ---
 
@@ -47,7 +47,7 @@ Displays the current user's (`u7`) friend list and the pages they like.
 
 Shows the most recent post and home feed consisting of posts by user, friends, and pages (within 2-day limit).
 
-![Latest Post and Home Feed](images/ss2.png)
+![Latest Post and Home Feed](S2.png)
 
 ---
 
@@ -60,7 +60,7 @@ Includes:
 * Commenting on a post
 * Viewing the full post with comments
 
-![Memory, Timeline, and Comment](images/ss3.png)
+![Memory, Timeline, and Comment](S3.png)
 
 ---
 
